@@ -1,2 +1,2 @@
 # Landing-Page
-Web Design Practice - HTML/CSS
+Static Landing Page
